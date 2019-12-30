@@ -1,5 +1,5 @@
 ---
-title: ESLint使用指北
+title: ESLint使用
 author: 作者
 top: false
 toc: false
