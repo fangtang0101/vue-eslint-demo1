@@ -94,5 +94,7 @@ https://github.com/editorconfig/editorconfig/wiki/EditorConfig-Properties
 ### branch prettierEslit
 1. npm install --save-dev eslint-plugin-prettier eslint-config-prettier
 
+2. 此刻 可以将 setting 中 代码检查 单独给 注释 与 影响 看下效果 app.vue 组件，可以看到 prettier 的效果
+
 
 
