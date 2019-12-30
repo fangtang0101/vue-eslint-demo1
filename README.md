@@ -87,4 +87,8 @@ https://github.com/editorconfig/editorconfig/wiki/EditorConfig-Properties
 ```
 
 
+### branch prettier
+1. npm install --save-dev prettier
+
+
 

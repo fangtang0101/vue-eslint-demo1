@@ -5,7 +5,8 @@
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "eslint":"eslint --ext .js,.vue src/"
+    "format": "prettier --write \"src/**/*.js\" \"src/**/*.vue\"",
+    "eslint": "eslint --ext .js,.vue src/"
   },
   "dependencies": {
     "core-js": "^2.6.5",
@@ -18,6 +19,7 @@
     "@vue/cli-service": "^3.1.1",
     "eslint": "^6.8.0",
     "eslint-plugin-vue": "^6.1.1",
+    "prettier": "^1.19.1",
     "vue-template-compiler": "^2.6.10"
   }
 }
