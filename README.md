@@ -86,5 +86,18 @@ https://www.jianshu.com/p/712cea0ef70e
 https://github.com/editorconfig/editorconfig/wiki/EditorConfig-Properties
 ```
 
+```
+    "eslint.validate": [
+        "javascript",
+        "javascriptreact",
+        {
+          "language": "vue",
+          "autoFix": true
+        },
+        "vue"
+      ],
+      "eslint.autoFixOnSave": true
+```
+
 
 
