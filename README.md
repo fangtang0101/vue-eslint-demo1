@@ -91,4 +91,8 @@ https://github.com/editorconfig/editorconfig/wiki/EditorConfig-Properties
 1. npm install --save-dev prettier
 
 
+### branch prettierEslit
+1. npm install --save-dev eslint-plugin-prettier eslint-config-prettier
+
+
 

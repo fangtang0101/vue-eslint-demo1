@@ -5,7 +5,8 @@ module.exports = {
     },
     "extends": [
         "eslint:recommended",
-        "plugin:vue/essential"
+        "plugin:vue/essential",
+        'plugin:prettier/recommended'
     ],
     "globals": {
         "Atomics": "readonly",
@@ -19,7 +20,8 @@ module.exports = {
         "vue"
     ],
     "rules": {
-        "no-console":"error"
+        "prettier/prettier": "error"
+        // "no-console":"error"
         // "no-dupe-keys":"off",
         // "no-template-key":"off"
     }
